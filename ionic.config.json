@@ -1,0 +1,7 @@
+{
+  "name": "hi-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
