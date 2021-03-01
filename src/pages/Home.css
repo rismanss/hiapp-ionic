@@ -1,0 +1,15 @@
+.phone-input {
+  /* margin: 15px; */
+  height: 35px;
+  /* border: 1.4px solid lightgray; */
+  padding: 25px 5px;
+  /* border-radius: 5px; */
+  font-size: 16px;
+}
+
+.PhoneInputInput {
+  flex: 1 1;
+  min-width: 0;
+  border: none;
+  outline: none;
+}

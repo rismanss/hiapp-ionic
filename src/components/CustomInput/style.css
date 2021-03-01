@@ -1,0 +1,11 @@
+.custom-item-label {
+  --border-style: none;
+}
+
+.custom-item {
+  --border-style: none;
+  margin: 0px 15px;
+  border: 0.1rem solid lightgray;
+  --highlight-height: 0px;
+  border-radius: 5px;
+}
