@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "hi-app",
+  "appName": "hiapp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

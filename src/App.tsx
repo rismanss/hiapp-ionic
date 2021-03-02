@@ -8,7 +8,6 @@ import { IonReactRouter } from '@ionic/react-router';
 import Home from './pages/Home';
 import User from './pages/User';
 import Admin from './pages/Admin';
-import PushNotif from './pages/PushNotif';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -91,9 +90,6 @@ const App: React.FC = () => {
           <IonRouterOutlet id="main">
             <Route exact path="/login" render={() => {
               return <Home setRole={setRole} />;
-            }} />
-            <Route exact path="/test" render={() => {
-              return <PushNotif />;
             }} />
             <Redirect to="/login" />
           </IonRouterOutlet>

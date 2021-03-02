@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:193517023555:android:349fc409aba4ce21f6fff6",
+        "mobilesdk_app_id": "1:193517023555:android:0db2db15c288c2e3f6fff6",
         "android_client_info": {
-          "package_name": "com.company.hiapp"
+          "package_name": "io.ionic.starter"
         }
       },
       "oauth_client": [
